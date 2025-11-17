@@ -1,5 +1,5 @@
 ### **Hey there** 👋
-I'm **Kaueniff Cristina**, a **IT Student** 🎓 passionate about mobile, web, and desktop development.
+I'm **Kaueniff Cristina**, a **IT Student** passionate about mobile, web, and desktop development.
 
 
 
