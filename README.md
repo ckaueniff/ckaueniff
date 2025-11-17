@@ -10,7 +10,7 @@ I'm **Kaueniff Cristina**, a **IT Student** 🎓 passionate about mobile, web, a
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,mysql,ubuntu)](https://skillicons.dev)
 
- | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckaueniff&layout=compact)](https://github.com/ckaueniff/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaueniff-Cristina&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |  
+ | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckaueniff&layout=compact)](https://github.com/ckaueniff/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckaueniff&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |  
  | ----------- | ----------- |  
 
 
