@@ -1,16 +1,21 @@
-## Hi there 👋
+### **Hey there** 👋
+I'm **Kaueniff Cristina**, a **IT Student** 🎓 passionate about mobile, web, and desktop development.
 
-<!--
-**ckaueniff/ckaueniff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+🔧 **Technologies & Tools**
+<p>
+</p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,mysql,ubuntu)](https://skillicons.dev)
+
+ | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckaueniff&layout=compact)](https://github.com/ckaueniff/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckaueniff&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |  
+ | ----------- | ----------- |  
+
+
+**Follow me on my social media:**
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/ckaueniff/)](https://www.instagram.com/ckaueniff/)
+
+
