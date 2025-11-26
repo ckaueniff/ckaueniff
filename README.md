@@ -4,7 +4,7 @@ I'm **Kaueniff Cristina**, a **IT Student** passionate about mobile, web, and de
 
 
 <hr/>
-🔧 **Technologies & Tools**
+🔧 Technologies & Tools
 <p>
 </p>
 
